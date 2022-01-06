@@ -1,0 +1,8 @@
+Login Package
+Class pack{
+public static void main(String[args])
+{
+int a=8;
+System.ou.println("The value is 8")
+}
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-04T18:56:21Z" name="suite" finished-at="2022-01-04T18:56:29Z" duration-ms="7950">
+    <groups>
+    </groups>
+    <test started-at="2022-01-04T18:56:21Z" name="test" finished-at="2022-01-04T18:56:29Z" duration-ms="7950">
+      <class name="Maventest.Sample1">
+        <test-method is-config="true" signature="launchbrowser()[pri:0, instance:Maventest.Sample1@4387b79e]" started-at="2022-01-04T18:56:21Z" name="launchbrowser" finished-at="2022-01-04T18:56:26Z" duration-ms="5055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method signature="verify1()[pri:0, instance:Maventest.Sample1@4387b79e]" started-at="2022-01-04T18:56:26Z" name="verify1" finished-at="2022-01-04T18:56:28Z" duration-ms="2256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify1 -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:Maventest.Sample1@4387b79e]" started-at="2022-01-04T18:56:28Z" name="closebrowser" finished-at="2022-01-04T18:56:29Z" duration-ms="602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- Maventest.Sample1 -->
+    </test> <!-- test -->
+  </suite> <!-- suite -->
+</testng-results>
